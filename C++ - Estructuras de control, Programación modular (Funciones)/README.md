@@ -2,7 +2,7 @@
 
 # C ++ / Estructuras de control - Programación modular (Funciones).
 
-En el lenguaje de programación C++, las funciones son bloques de código que realizan una o varias tareas y pueden ser llamados desde otras partes del programa. Las funciones permiten la modularización del código, mejorando la legibilidad y la reutilización.
+En el lenguaje de programación `C++`, las funciones son bloques de código que realizan una o varias tareas y pueden ser llamados desde otras partes del programa. Las funciones permiten la modularización del código, mejorando la legibilidad y la reutilización.
 
 ## Defición de función.
 
@@ -126,5 +126,6 @@ Una vez calidado el ingreso, el programa debe ofrecer un menú con diferentes op
 - `Salir del sistema`: Finaliza la sesión del cajero automático.
 
 El programa debe implementar funciones separadas apra cada una de las operaciones mencionadas.
+
 
 </div>
